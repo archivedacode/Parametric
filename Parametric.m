@@ -59,6 +59,8 @@
     yL1 = yL0;
     
     return yL0;
+    
+    // how's the left channel looking?? yes, identical to the right... Go figure.
 }
 
 - (CGFloat)filterRight:(CGFloat)x
