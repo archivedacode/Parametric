@@ -1,6 +1,6 @@
 //
 //  Parametric.h
-//  Tracks
+//  Tracks and EQ10
 //
 //  Created by David Ross on 05/03/2019.
 //  Copyright © 2019 David Ross. All rights reserved.
