@@ -3,7 +3,7 @@
 //  EQ10
 //
 //  State variable filter, for computing the coefficients for parametric type filters.
-//  Nicked it from here: https://cytomic.com/technical-papers
+//  Nicked it from here: https://cytomic.com/technical-papers (thank you)
 //
 //  Created by David Ross on 03/01/2019.
 //  Copyright © 2019 David Ross. All rights reserved.
