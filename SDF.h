@@ -2,6 +2,8 @@
 //  SDF.h
 //  EQ10
 //
+//  State variable filter, for computing the coefficients for parametric type filters.
+//
 //  Created by David Ross on 03/01/2019.
 //  Copyright © 2019 David Ross. All rights reserved.
 //
